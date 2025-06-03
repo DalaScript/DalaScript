@@ -3,8 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dalascript&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DalaScript&theme=dark&hide_border=false&card_width=430" height="150" alt="streak graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=DalaScript&theme=dark&hide_border=false" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dalascript&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
