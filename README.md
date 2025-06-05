@@ -6,7 +6,11 @@
 
 ###
 
-<h3 align="left">I'm Dala 🥷 and I'm a Fullstack Developer 👨‍💻, from Georgia</h3>
+<h3 align="left">👨‍💻 About Me</h3>
+
+###
+
+<p align="left">I'm Dala 🥷 and I'm a Fullstack Developer, from Georgia</p>
 
 ###
 
